@@ -5,6 +5,7 @@ import NavBar from './components/NavBar'
 import HeroSection from './components/HeroSection'
 import Grid from './components/Grid'
 import CallToAction from './components/CallToAction'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
     <HeroSection/>
     <Grid/>
     <CallToAction/>
+    <Footer/>
     </>
   )
 }
