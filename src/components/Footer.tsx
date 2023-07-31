@@ -35,7 +35,7 @@ const Footer = () => {
           </ul>
         </div>
         <hr />
-        <div className=" grid grid-cols-1 mx-auto justify-center mt-8 text-center md:grid-cols-4 md:text-start" >
+        <div className=" grid grid-cols-1 mx-auto justify-center mt-8 text-center md:grid-cols-4 md:text-start md:justify- md:mx-0" >
           <ul>
             <li className="pb-5">OUR COMPANY</li>
             <li className="pb-2">
